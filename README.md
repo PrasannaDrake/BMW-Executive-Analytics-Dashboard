@@ -1,6 +1,6 @@
 # 🚘 BMW Executive Summary Dashboard
 
-A **premium multi-page business intelligence dashboard** built using **Python, Tkinter, Pandas, and Matplotlib** to analyze BMW global sales performance.
+A **professional multi-page business intelligence dashboard** built using **Python, Tkinter, Pandas, and Matplotlib** to analyze BMW global sales performance.
 
 This project transforms raw CSV sales data into an **interactive executive analytics suite** with KPI cards, revenue trends, regional intelligence, model insights, segment performance, and engine trend analysis.
 
